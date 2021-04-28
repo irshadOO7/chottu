@@ -1,0 +1,15 @@
+.dataTables_filter{
+	width: 240px !important;
+    float: right !important;
+    }
+.con i {
+	margin-left: 10px;
+	cursor: pointer;
+}
+input:read-only {
+  background-color: #FFF0F5;
+  border: 1px grey solid;
+}
+.btn:disabled{
+	background-color: red!important;
+}
